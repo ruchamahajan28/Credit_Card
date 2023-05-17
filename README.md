@@ -18,3 +18,5 @@ A more trustworthy source must be taken which double-check the data, at least fo
 We can make the model simple and interpretable so that when the scammer adapts to it with just some tweaks we can have a new model up and running to deploy.
 
 Download Dataset through this link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+Dashboard of Credit Card Fraud: file:///C:/Users/r_nem/AppData/Local/Temp/Power%20BI%20Desktop/print-job-31e6ebb4-88b3-4833-99f3-e37b1436b350/credit.pdf
